@@ -1,7 +1,7 @@
 # Azure-Advisor
 Uso de Azure Advisor (Asesor)
 
-![Logo de Azure Advisor](https://github.com/AlanAlvaradoR/Azure-Advisor/blob/main/imagenes/monitor.png)
+![Logo de Azure Advisor](https://github.com/AlanAlvaradoR/Azure-Advisor/blob/main/imagenes/Advisor.png)
 
 ## Requisitos
 
